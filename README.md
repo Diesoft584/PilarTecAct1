@@ -10,7 +10,7 @@ Es un pequeño proyecto realizado en java.net . Para cargar datos.
 
 ### Dependencias
 
-- Necesita de un import de una libreria java.util.Scanner;.
+- Necesita de un import de una libreria java.util.Scanner.
 
 ### Ejecucion del programa
 
@@ -21,5 +21,7 @@ El programa solo lo ejecutaria en java.net para ver su funcionamiento.
 Diego Oviedo
 
 ## Versines
-
+		
 - 0.1
+- 0.2
+
