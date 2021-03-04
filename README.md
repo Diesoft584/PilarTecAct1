@@ -21,7 +21,7 @@ El programa solo lo ejecutaria en java.net para ver su funcionamiento.
 Diego Oviedo
 
 ## Versines
-		
+	
 - 0.1
 - 0.2
 - 0.3 cambio
