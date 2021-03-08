@@ -26,3 +26,5 @@ Diego Oviedo
 - 0.2
 - 0.3 cambio
 - 0.4 Cambio con nueva rama
+-
+- 0.6 Segundo Cambio con Nuevarama
