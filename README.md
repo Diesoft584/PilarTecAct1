@@ -21,10 +21,11 @@ El programa solo lo ejecutaria en java.net para ver su funcionamiento.
 Diego Oviedo
 
 ## Versines
-		
+	
 - 0.1
 - 0.2
 - 0.3 cambio
 - 0.4 Cambio con nueva rama
 - 0.5 Cambio con rama pricipal
+- 0.7 Rama nuevas2
 
