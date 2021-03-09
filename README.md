@@ -27,7 +27,8 @@ Diego Oviedo
 - 0.3 cambio
 - 0.4 Cambio con nueva rama
 - 0.5 Cambio con rama pricipal
-- 0.6 Segundo cambio con NUEVA-RAMA
+- 0.6 Modificado Segundo cambio con NUEVA-RAMA
 - 0.7 Rama nuevas2
+- 0.8 Modificaco por Mainº
 
 
