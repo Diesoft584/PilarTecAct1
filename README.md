@@ -29,7 +29,8 @@ Diego Oviedo
 - 0.5 CAmtiosssscon rama pricipal
 - 0.6 Modificado Segundo cambio con NUEVA-RAMA
 - 0.7 Rama nuevas2
-- 0.8 Modificaco por Mains
-- 0.10 Modifico
+- 0.8 Modificaco por Mainº
+- 0.9 Aqui modifique con nuevarama3
+- 10 aqui modifico prueba
 
 
